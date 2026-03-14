@@ -1,5 +1,5 @@
 # 🚀 Configuring Production-Ready EKS Clusters with Terraform and GitHub Actions
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)]([https://www.linkedin.com/in](https://www.linkedin.com/in/vishal-lilhare-31a121216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwIXmB9KISVqG84XqQjpkFg%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)]([https://www.linkedin.com/in]
 [![Serverless](https://img.shields.io/badge/Serverless-%E2%9A%A1%EF%B8%8F-blueviolet)](https://www.serverless.com)
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
